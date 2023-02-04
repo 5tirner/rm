@@ -1,5 +1,5 @@
 # rm
-File Deletion Utility
+File Deletion Utility\
 This is a simple C program to delete files from the command line.\
 The program takes in a list of file names as command line arguments and deletes them one by one.
 
